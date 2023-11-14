@@ -1,3 +1,3 @@
 # Python-codes_ETSC
 
-Codes from the ETSC python classes
+This file contains codes from the first three classes of python during the ETSC course.
